@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Security Alarm</string>
+    <string name="login_title">Erişim için Giriş Yapın</string>
+    <string name="login_subtitle">Güvenlik sistemine erişmek için lütfen giriş yapınız</string>
+    <string name="login_button">Giriş Portalına Git</string>
+    <string name="emergency_call">Acil Durum</string>
+    <string name="emergency_number">0850 532 0155</string>
+    <string name="contact_email">İletişim</string>
+    <string name="contact_email_address">info@mysecurity.com.tr</string>
+</resources>

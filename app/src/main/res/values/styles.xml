@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MySecurityAlarm" parent="android:Theme.Material.NoActionBar">
+        <item name="android:colorPrimary">#00ffc8</item>
+        <item name="android:colorPrimaryDark">#0f1419</item>
+        <item name="android:colorAccent">#00ffc8</item>
+        <item name="android:windowBackground">#0f1419</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+</resources>
